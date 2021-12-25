@@ -24,7 +24,7 @@ print("Exponentiation of a given number:" , pow(a,b))
 ```
 
 ## Output:
-![output](.//EX1.png)
+![output](.//EX1.PNG)
 
 
 ## Result:
